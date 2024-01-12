@@ -22,5 +22,5 @@
 ![dragonburner_beacon_probe_mounting_bracket](https://github.com/Blue-RR/Voron_Mods/assets/71996820/e524d561-e323-4816-a844-c5899e8a29ba)
 
 **Note:**
-- These are threaded into the plastic, do not overtighten them.
-- Its higly recommended that low profile screws are used otherwise you risk damaging your bed during movement and calibratio
+- These are threaded into the plastic, **do not overtighten them**.
+- Its higly recommended that low profile screws are used otherwise you risk damaging your bed during movement and calibration.
